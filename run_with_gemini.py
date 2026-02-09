@@ -5,7 +5,7 @@ from recommendation_engine import FlightRecommendationEngine
 # ==========================================
 # ENTER YOUR GEMINI API KEY HERE
 # ==========================================
-GEMINI_API_KEY = "AIzaSyAZyVO_IvNbNDwBEnRQl4rHyJ-COlu3zBs" 
+GEMINI_API_KEY = "YOUR GEMINI KEY"
 # ==========================================
 
 def print_flight_summary(flight, rank=None):
