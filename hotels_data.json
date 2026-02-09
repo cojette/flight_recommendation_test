@@ -1,0 +1,5202 @@
+[
+  {
+    "hotel_id": "2a4d1baf-7f77-49d1-b318-438eb148b0a7",
+    "city": "DXB",
+    "name": "Hyatt DXB Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 198.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "37beab48-b11a-4b87-81bf-fcbac2dd6f3c",
+    "city": "DXB",
+    "name": "Marriott DXB Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 145,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "2040d822-d864-4979-9e73-80a6b891f3fe",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 72,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "8d034577-3837-4a4a-a716-e817a8ebef4d",
+    "city": "DXB",
+    "name": "Hyatt DXB Airport",
+    "room_type": "Standard King",
+    "price_per_night": 136.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "e1e4b116-6530-4de6-b129-ca17761dfa7a",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 219,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "31f650ca-5297-422c-807f-9528205d93bd",
+    "city": "DXB",
+    "name": "Local Luxury DXB Grand",
+    "room_type": "Standard King",
+    "price_per_night": 106.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "ee49fffd-d436-4d77-900a-bc509fc3b82c",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 121,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "873dcab5-97e4-4a89-817d-33e171c68bc5",
+    "city": "DXB",
+    "name": "Local Luxury DXB Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 312.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "d90b6680-117a-4816-b20c-725fd47ab968",
+    "city": "DXB",
+    "name": "Hyatt DXB City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 257.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "dda6ecb1-b7ba-4b23-b4a8-8ac64b81ca7e",
+    "city": "DXB",
+    "name": "Hyatt DXB Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 433.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "5e8f104c-c613-48e0-9dac-e3b19c0d294d",
+    "city": "DXB",
+    "name": "Local Luxury DXB Resort",
+    "room_type": "Standard King",
+    "price_per_night": 185.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "60faaa36-655e-4e80-86ae-984f8fb2f363",
+    "city": "DXB",
+    "name": "Marriott DXB Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 124,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "136bd6c2-9fe8-4de6-ab45-f24ec792cb30",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 148,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "b9536e11-d9fa-483a-8a5a-0efc6aa3859b",
+    "city": "DXB",
+    "name": "Local Luxury DXB Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 196.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "751cddf6-f5e6-4e43-a056-09b364174e39",
+    "city": "DXB",
+    "name": "Marriott DXB Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 102,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "26dc4db4-5004-419d-8d80-4be8bb6c3c3a",
+    "city": "DXB",
+    "name": "Holiday Inn DXB City Center",
+    "room_type": "Standard King",
+    "price_per_night": 119,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "198e1caa-9145-4852-af20-ab3bded31ec8",
+    "city": "DXB",
+    "name": "Hyatt DXB City Center",
+    "room_type": "Standard King",
+    "price_per_night": 146.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "83e4c50b-aca2-4a34-9c66-9ebb7dac02da",
+    "city": "DXB",
+    "name": "Local Luxury DXB City Center",
+    "room_type": "Standard King",
+    "price_per_night": 153.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "1930371d-f55d-4c9a-ac13-46c81596ea1f",
+    "city": "DXB",
+    "name": "Marriott DXB Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 116,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "cc6089ed-6f15-46b8-9de6-c1bfde15bdb8",
+    "city": "DXB",
+    "name": "Hyatt DXB Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 341.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "e0cbb500-360e-41a8-9374-6eab9efd2123",
+    "city": "DXB",
+    "name": "Ritz-Carlton DXB Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 103.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "95d86bae-c95d-48aa-926d-5c659a34f7b1",
+    "city": "DXB",
+    "name": "Comfort Inn DXB Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 94,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "d663c8d7-4120-4469-a230-75a066793483",
+    "city": "DXB",
+    "name": "Hyatt DXB Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 152.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "c14dada6-2c71-401c-a377-871c19bcd796",
+    "city": "DXB",
+    "name": "Ritz-Carlton DXB Airport",
+    "room_type": "Standard King",
+    "price_per_night": 131.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "baf9db7b-3b44-4b5b-959f-69672abaed6c",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 319,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "ac47b00e-0893-4a61-a106-e5756511bdff",
+    "city": "DXB",
+    "name": "Comfort Inn DXB Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 174,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "09edd1ab-118b-4da7-9f5b-c5f153d88157",
+    "city": "DXB",
+    "name": "Sheraton DXB Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 293,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "a3d3196a-2a41-4cbe-ae6d-ac05c6816876",
+    "city": "DXB",
+    "name": "Ritz-Carlton DXB Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 251.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "8cbd33c2-62d8-472d-9460-27f86a01df59",
+    "city": "DXB",
+    "name": "Holiday Inn DXB Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 346,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "863aac4e-3d0b-48df-a62e-61de2bba557c",
+    "city": "DXB",
+    "name": "Sheraton DXB Airport",
+    "room_type": "Standard King",
+    "price_per_night": 53,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "539cea68-16e9-4cfe-94bb-dbe24f6b4537",
+    "city": "DXB",
+    "name": "Comfort Inn DXB Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 245,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "2989e2bd-47ea-43b9-800e-43dd1a4529be",
+    "city": "DXB",
+    "name": "Hilton DXB Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 142,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "0476c486-e1e9-4160-839a-96b624c03bb6",
+    "city": "DXB",
+    "name": "Local Luxury DXB Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 114.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "d236916b-d586-4012-b079-d0938c213968",
+    "city": "DXB",
+    "name": "Marriott DXB Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 181,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "aeb42236-9220-408b-906f-1afad32ea2ee",
+    "city": "DXB",
+    "name": "Hilton DXB City Center",
+    "room_type": "Standard King",
+    "price_per_night": 137,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "98e7a6df-5188-4500-bf12-b8f815b56edb",
+    "city": "DXB",
+    "name": "Hyatt DXB Resort",
+    "room_type": "Standard King",
+    "price_per_night": 192.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "5c1f6e7f-dd32-4c3e-8eba-739ffa26907a",
+    "city": "DXB",
+    "name": "Local Luxury DXB Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 264.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "2f1b51c6-0b88-4cb8-9f74-3061152f7e13",
+    "city": "DXB",
+    "name": "Ritz-Carlton DXB Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 485.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "7677e98f-2664-46b1-b942-10576a17489a",
+    "city": "DXB",
+    "name": "Marriott DXB Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 124,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "0bec56c2-279c-43ea-9b24-9d1bace7dae7",
+    "city": "DXB",
+    "name": "Marriott DXB Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 270,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "89c7cde1-cddf-4259-98d6-b9e455b338a9",
+    "city": "DXB",
+    "name": "Hyatt DXB City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 277.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "7a76b23e-8b29-49c9-a7e7-4528a39525ba",
+    "city": "DXB",
+    "name": "Sheraton DXB Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 260,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "73701630-457e-491a-9adf-da73f1536c86",
+    "city": "DXB",
+    "name": "Marriott DXB Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 86,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "9b3c6049-67a7-4f91-9068-de60d95a9ee1",
+    "city": "DXB",
+    "name": "Ritz-Carlton DXB Resort",
+    "room_type": "Standard King",
+    "price_per_night": 131.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "616d3c02-fbf3-4908-915f-910c96a7a3f3",
+    "city": "DXB",
+    "name": "Sheraton DXB Airport",
+    "room_type": "Standard King",
+    "price_per_night": 76,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "2aed77ef-9dc8-4a73-838a-339da2510056",
+    "city": "DXB",
+    "name": "Hilton DXB Resort",
+    "room_type": "Standard King",
+    "price_per_night": 60,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "8a792035-de73-40dc-b083-ad22cbfbd9b4",
+    "city": "DXB",
+    "name": "Comfort Inn DXB Grand",
+    "room_type": "Standard King",
+    "price_per_night": 58,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "08763cb9-9312-4081-ad53-e63a3de71b68",
+    "city": "DXB",
+    "name": "Hilton DXB Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 166,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "2ada1ff5-cc82-45b0-ab13-758afca6136b",
+    "city": "DXB",
+    "name": "Hyatt DXB Grand",
+    "room_type": "Standard King",
+    "price_per_night": 151.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "0c766857-40b3-4150-8ceb-5feb8aae4b0c",
+    "city": "DXB",
+    "name": "Sheraton DXB Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 69,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "5db12f5d-ff1a-423e-bfdf-c28b4403b132",
+    "city": "DEL",
+    "name": "Holiday Inn DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 52,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "a07ac59d-dd6b-40fc-b77a-6e9a8ebd6f15",
+    "city": "DEL",
+    "name": "Local Luxury DEL Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 472.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "8abd2411-cf4f-464f-86ec-c9c0e8e34497",
+    "city": "DEL",
+    "name": "Local Luxury DEL Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 269.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "8be2a33d-3caf-4cfe-8fd3-4f9f13a227a6",
+    "city": "DEL",
+    "name": "Local Luxury DEL Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 271.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "146be9ad-8d7a-4a0e-b1ba-acc773dd0e3a",
+    "city": "DEL",
+    "name": "Local Luxury DEL City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 498.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "b6ad0658-f296-4aac-8ae9-db8779972bd5",
+    "city": "DEL",
+    "name": "Holiday Inn DEL Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 336,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "4a9d2843-69c5-4053-b420-c0853ced29ee",
+    "city": "DEL",
+    "name": "Ritz-Carlton DEL Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 404.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "60355579-e794-453b-90e9-0ad1585bbae3",
+    "city": "DEL",
+    "name": "Hilton DEL City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 190,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "e89093b6-d369-46a0-a39f-41cb054e5bd5",
+    "city": "DEL",
+    "name": "Local Luxury DEL Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 304.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "a0456b2d-5e76-41c9-95f3-43ef3914cb76",
+    "city": "DEL",
+    "name": "Hyatt DEL City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 317.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "e697ec2e-ff3d-4926-9f26-12dc56dd4b17",
+    "city": "DEL",
+    "name": "Marriott DEL City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 314,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "48afd0dc-9017-43a7-bb5b-62baed723dc0",
+    "city": "DEL",
+    "name": "Hilton DEL City Center",
+    "room_type": "Standard King",
+    "price_per_night": 78,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "2f6d5320-df8f-40f7-9efa-abe27d4a73eb",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 262,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "b97ff727-061a-4205-b249-ea1fa41ec735",
+    "city": "DEL",
+    "name": "Hyatt DEL Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 131.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "01aa503e-5367-4718-a935-2a9504d8f5ba",
+    "city": "DEL",
+    "name": "Sheraton DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 125,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "66b97ad8-8f4b-4f81-b460-eaeea46002de",
+    "city": "DEL",
+    "name": "Hyatt DEL City Center",
+    "room_type": "Standard King",
+    "price_per_night": 145.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "b567ced1-9fd5-4476-91f6-fdf5405915c8",
+    "city": "DEL",
+    "name": "Ritz-Carlton DEL Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 405.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "9f957ee5-99d0-40a9-9610-b269ad7c0b9c",
+    "city": "DEL",
+    "name": "Hilton DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 124,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "f29af6ea-549a-49b1-8474-44a8cf7561ec",
+    "city": "DEL",
+    "name": "Sheraton DEL Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 171,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "dd60ec4b-c75e-4b11-94d5-9c04f1571bfb",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 177,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "ac79e6bb-848a-4092-b09a-20dda4578e0f",
+    "city": "DEL",
+    "name": "Marriott DEL Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 184,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "ef6bda1e-cbb5-4dd5-9fb9-ef8d0d871fda",
+    "city": "DEL",
+    "name": "Local Luxury DEL Resort",
+    "room_type": "Standard King",
+    "price_per_night": 162.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "166b8379-606b-4fd2-95b7-f3e439d506e3",
+    "city": "DEL",
+    "name": "Local Luxury DEL Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 326.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "8b54f2a4-ac0b-4607-ad0d-6eb7cc7fdc1c",
+    "city": "DEL",
+    "name": "Hilton DEL Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 164,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "b03e2311-7c8b-4db8-a7b8-05e637ce67c6",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 106,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "f97b025b-ff66-4838-979f-1266b2c6be95",
+    "city": "DEL",
+    "name": "Marriott DEL Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 301,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "b894020b-473a-48cd-80cb-a2500566beff",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 289,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "071c60e6-98f3-4176-bec6-2a44018895d0",
+    "city": "DEL",
+    "name": "Hyatt DEL Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 423.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "69672659-0328-4ab6-9bdf-d1c5c45ee938",
+    "city": "DEL",
+    "name": "Hyatt DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 107.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "627d2d89-6c41-4aef-9da2-d7988f8c06ba",
+    "city": "DEL",
+    "name": "Local Luxury DEL Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 350.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "be19190b-c836-417d-9273-329e6cdf7667",
+    "city": "DEL",
+    "name": "Local Luxury DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 175.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "daf5cf4e-4e4c-4ca9-86e1-43242bca4595",
+    "city": "DEL",
+    "name": "Sheraton DEL City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 333,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "525a4d26-4066-4599-83f4-7f88b1b5f89d",
+    "city": "DEL",
+    "name": "Marriott DEL Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 322,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "47f05680-c83f-4786-b1f6-a2e619741c7d",
+    "city": "DEL",
+    "name": "Marriott DEL Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 258,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "30b35395-c0a8-49f3-972c-8aa286e03d09",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 243,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "93800a2f-0ad8-4c10-9739-2d3d24447c3b",
+    "city": "DEL",
+    "name": "Hyatt DEL Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 128.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "ede04a34-269b-4273-b1f7-49eeff9f89e5",
+    "city": "DEL",
+    "name": "Holiday Inn DEL Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 305,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "dd8e25c5-7de7-4719-8784-299c44a8fe2e",
+    "city": "DEL",
+    "name": "Local Luxury DEL Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 304.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "5f8d428a-62b8-4704-8e67-47b71f11ae5d",
+    "city": "DEL",
+    "name": "Sheraton DEL Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 142,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "62bfe879-2ef2-43a4-864e-e02631917bbd",
+    "city": "DEL",
+    "name": "Marriott DEL Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 110,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "c6f8ad97-2c43-4809-a727-b27dbca806dd",
+    "city": "DEL",
+    "name": "Hyatt DEL City Center",
+    "room_type": "Standard King",
+    "price_per_night": 176.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "099dcd02-09ab-4f3a-a170-9a60ff4459de",
+    "city": "DEL",
+    "name": "Local Luxury DEL City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 411.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "4b421110-4f25-4582-8b90-3bc8dce47aaf",
+    "city": "DEL",
+    "name": "Marriott DEL Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 338,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "0d8045fc-e1aa-4458-b680-8a155aed6235",
+    "city": "DEL",
+    "name": "Sheraton DEL Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 146,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "d0fe0484-6bac-4adf-94e2-a47b8f18aeff",
+    "city": "DEL",
+    "name": "Comfort Inn DEL Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 343,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "eccd469c-9ee4-4031-b70b-524c2d1e434e",
+    "city": "DEL",
+    "name": "Local Luxury DEL Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 471.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f4ceb81a-d9b2-4b32-bb65-98d66a043e95",
+    "city": "DEL",
+    "name": "Marriott DEL Resort",
+    "room_type": "Standard King",
+    "price_per_night": 96,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f13dbb5e-c505-4b1d-8ebe-7eab002e8a0f",
+    "city": "DEL",
+    "name": "Holiday Inn DEL Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 133,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "39520e97-a92d-4824-b48e-6993621a6b76",
+    "city": "DEL",
+    "name": "Holiday Inn DEL City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 171,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "d48f3f60-faa5-41e4-8b69-494eda60a2fb",
+    "city": "DEL",
+    "name": "Sheraton DEL Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 68,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "596c8460-a8f0-40f8-aa7c-8ea9702b2775",
+    "city": "SIN",
+    "name": "Hyatt SIN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 279.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "a6571d3c-0490-407a-b36f-dab568e36783",
+    "city": "SIN",
+    "name": "Hilton SIN City Center",
+    "room_type": "Standard King",
+    "price_per_night": 140,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "1ff89480-66ff-4f43-b034-cf9a3e587e1d",
+    "city": "SIN",
+    "name": "Ritz-Carlton SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 320.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "e280d545-95b2-4959-8b6e-e171cb41e4ff",
+    "city": "SIN",
+    "name": "Hilton SIN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 235,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "96c76805-2ac2-4e33-98a9-202565739d90",
+    "city": "SIN",
+    "name": "Comfort Inn SIN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 225,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "69538edc-55f1-49e9-a751-5b084c0dec41",
+    "city": "SIN",
+    "name": "Marriott SIN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 227,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "dd520877-1ebe-46cf-a185-5ee3a8d86a91",
+    "city": "SIN",
+    "name": "Ritz-Carlton SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 311.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "3ddf4c16-b060-4c1b-80c3-24bcc47e2e82",
+    "city": "SIN",
+    "name": "Hilton SIN Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 86,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "26f3bce0-8591-494f-bc14-a8598796c770",
+    "city": "SIN",
+    "name": "Marriott SIN Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 232,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "43b49fa1-ae42-4dee-a56f-fec16f2bf7aa",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 178,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "a1c30bda-dfca-4a5e-9b0b-521c258ec111",
+    "city": "SIN",
+    "name": "Hilton SIN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 103,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "1a460eda-5a7c-4e8a-a290-4e80cf7c836f",
+    "city": "SIN",
+    "name": "Sheraton SIN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 112,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "109b07f0-aaf9-4889-a6ad-122c4cf1072d",
+    "city": "SIN",
+    "name": "Marriott SIN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 335,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "0b1529a1-e24e-4a29-ac66-04a6c9360288",
+    "city": "SIN",
+    "name": "Ritz-Carlton SIN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 192.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "c919aa61-e0f2-46e3-a9d3-ceae1161b192",
+    "city": "SIN",
+    "name": "Ritz-Carlton SIN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 176.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "f19df5a9-872c-4feb-8f7a-573992e66d06",
+    "city": "SIN",
+    "name": "Marriott SIN Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 280,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "0571a06e-c1bf-4687-b593-96b4a5793888",
+    "city": "SIN",
+    "name": "Comfort Inn SIN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 232,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "d1d9018d-3895-4b63-8a20-001288323f23",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 56,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "2a08ae1f-283d-4425-8e5e-efbd97ed959f",
+    "city": "SIN",
+    "name": "Holiday Inn SIN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 69,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "27049233-c99d-4e93-8f1f-23d44b61cf32",
+    "city": "SIN",
+    "name": "Hilton SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 193,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "566acc26-3218-4ef4-b60d-5ebf66e65f7e",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 98,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "b8cec635-ba33-4dab-8588-e3b292b5d330",
+    "city": "SIN",
+    "name": "Comfort Inn SIN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 335,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "b2c3fd0f-5b9e-4cd1-8448-2273da353a30",
+    "city": "SIN",
+    "name": "Sheraton SIN Resort",
+    "room_type": "Standard King",
+    "price_per_night": 126,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "959fe49f-c114-4e6d-82e5-b828d60763b0",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 235,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "648d5b65-0431-4896-9730-7d8e2aff2d43",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 139,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "05fc28db-67ce-4b50-9f8f-9ab3b21534aa",
+    "city": "SIN",
+    "name": "Marriott SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 230,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "4f8edcaa-c639-44d6-a5ee-cc99a2033cc1",
+    "city": "SIN",
+    "name": "Hilton SIN Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 231,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "dd83ee27-82be-4a2d-aa3a-8433777b49c0",
+    "city": "SIN",
+    "name": "Hilton SIN Grand",
+    "room_type": "Standard King",
+    "price_per_night": 73,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "3de14492-d491-4d5f-9b81-78da0f3b444e",
+    "city": "SIN",
+    "name": "Hyatt SIN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 190.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "7245b73f-8c09-45d3-a9e2-ddc6e2988d99",
+    "city": "SIN",
+    "name": "Hyatt SIN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 300.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "0f5d5bb0-317d-4718-8d4b-eaadcc1df298",
+    "city": "SIN",
+    "name": "Local Luxury SIN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 338.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "8b05735c-4178-4a69-9dde-f48c24e2bbb7",
+    "city": "SIN",
+    "name": "Ritz-Carlton SIN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 255.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "0788ea81-0da4-403a-9e23-d30643014b8d",
+    "city": "SIN",
+    "name": "Holiday Inn SIN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 320,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "fe78dea5-fa2a-4090-9b98-8567045fc41e",
+    "city": "SIN",
+    "name": "Comfort Inn SIN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 322,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "bd0be57f-d498-47d8-865f-f9b7d378d7c4",
+    "city": "SIN",
+    "name": "Marriott SIN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 342,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "aa6472af-172b-4f16-b2c2-f5cd15bf7386",
+    "city": "SIN",
+    "name": "Marriott SIN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 81,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "01767f16-0085-4bd1-ad77-ff9b2bf04700",
+    "city": "SIN",
+    "name": "Hilton SIN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 180,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "9238f241-8a25-4e47-af65-e36e7ad86526",
+    "city": "SIN",
+    "name": "Hilton SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 177,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "17992a0a-55bd-457c-aba3-eb8a8e502e30",
+    "city": "SIN",
+    "name": "Hyatt SIN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 279.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "4b0380e5-e564-4cc7-8fd4-5ff81a26600e",
+    "city": "SIN",
+    "name": "Local Luxury SIN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 323.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "348bd592-c980-4325-8944-e6e6027a0f87",
+    "city": "SIN",
+    "name": "Hyatt SIN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 498.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "3df709c0-8242-4374-a3e5-bc62993d44c6",
+    "city": "SIN",
+    "name": "Marriott SIN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 93,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "a901956c-0f2c-4467-b690-5861bcc46f70",
+    "city": "SIN",
+    "name": "Hilton SIN Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 149,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "032ddf0e-d56e-4234-8938-3ea2b2bdb9a5",
+    "city": "SIN",
+    "name": "Hilton SIN Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 129,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "8b899e92-3e1f-470a-9ea0-c093fb79d92e",
+    "city": "SIN",
+    "name": "Sheraton SIN Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 344,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "47a4d098-d409-45cb-9385-a5541c20e145",
+    "city": "SIN",
+    "name": "Local Luxury SIN Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 184.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "af26da40-8f36-4dde-b92e-451efed25b2b",
+    "city": "SIN",
+    "name": "Sheraton SIN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 201,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "eb9d9141-0097-42bb-a412-52c09bfc9163",
+    "city": "SIN",
+    "name": "Hilton SIN Grand",
+    "room_type": "Standard King",
+    "price_per_night": 53,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "3e8e28c6-ff3e-47d6-99a9-77e708b527f3",
+    "city": "SIN",
+    "name": "Hilton SIN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 209,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "ed581e30-d957-4b43-99d5-ed60d6b68af2",
+    "city": "SIN",
+    "name": "Hyatt SIN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 145.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "1451082f-2067-4ee4-b1c3-5821dbfda19d",
+    "city": "LHR",
+    "name": "Hilton LHR Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 152,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "4369a744-82e2-4bcb-be9b-ed3acea8e35d",
+    "city": "LHR",
+    "name": "Local Luxury LHR Resort",
+    "room_type": "Standard King",
+    "price_per_night": 175.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "9c115d53-1956-4050-8b58-1e6d5ce422f1",
+    "city": "LHR",
+    "name": "Hilton LHR Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 128,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "a57705bd-61a8-451d-909c-d37b7365521a",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 424.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "9b86e10e-f9c1-4449-9d44-c35acb26a653",
+    "city": "LHR",
+    "name": "Hilton LHR Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 81,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "a30d3e64-866f-43b2-a28b-2ec4436d8f24",
+    "city": "LHR",
+    "name": "Hilton LHR City Center",
+    "room_type": "Standard King",
+    "price_per_night": 115,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "d8352eb9-fc73-47cb-b289-0ab01d7685aa",
+    "city": "LHR",
+    "name": "Marriott LHR City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 121,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "8976edf3-9208-4b7a-aa14-a8c0db185fa5",
+    "city": "LHR",
+    "name": "Local Luxury LHR City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 406.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "d102cc68-b32b-45d1-a56d-8a15bfadaa50",
+    "city": "LHR",
+    "name": "Comfort Inn LHR Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 299,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "3b59fbd7-28a5-4d37-b534-13b2fc171de0",
+    "city": "LHR",
+    "name": "Hilton LHR Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 112,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "2d82c0b0-1d55-4153-8ba5-5bd174c575d5",
+    "city": "LHR",
+    "name": "Marriott LHR Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 118,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "0334f0a1-2ebc-46ec-9b51-439260964c28",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 111.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "76ad0127-9d00-4794-9c82-a71d72d52488",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 115,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "5c5f4508-6b5e-4d3b-b5ba-ff2d07d21974",
+    "city": "LHR",
+    "name": "Sheraton LHR Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 54,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "5f41c9f2-7cba-4d52-bcea-27f7beb871c6",
+    "city": "LHR",
+    "name": "Marriott LHR Airport",
+    "room_type": "Standard King",
+    "price_per_night": 72,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "4a1d3a0f-782f-4967-ba3d-0ad976aa83f2",
+    "city": "LHR",
+    "name": "Hilton LHR City Center",
+    "room_type": "Standard King",
+    "price_per_night": 74,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "58006c30-4686-4e5c-8802-f3700415ff3a",
+    "city": "LHR",
+    "name": "Hyatt LHR Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 434.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "075f3455-f125-46be-b390-d40e95e1f9ea",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 241,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "146b26c6-530a-46e0-8631-9ad2eb699b8c",
+    "city": "LHR",
+    "name": "Holiday Inn LHR City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 131,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "c951f5cf-431f-4316-9feb-1e3170cdecb7",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Grand",
+    "room_type": "Standard King",
+    "price_per_night": 70,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "de0446b9-3934-44e3-9a42-7a6a924c8988",
+    "city": "LHR",
+    "name": "Comfort Inn LHR City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 258,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "e2cbdef0-f2dd-48cc-b164-4abc539437c5",
+    "city": "LHR",
+    "name": "Hilton LHR Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 228,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "f3176baf-7d77-45c9-848c-765871ade685",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 260.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "cb95c3ee-3910-45e8-894c-38739b4cebf2",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 102,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f37b1e76-a5b5-429a-a48c-28d778077223",
+    "city": "LHR",
+    "name": "Sheraton LHR Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 159,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "cd0c160a-9fc7-4934-a034-8e96fef25515",
+    "city": "LHR",
+    "name": "Hyatt LHR Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 335.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "a64b388f-de24-4141-8572-e599c12cc6af",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 107.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "e947aa19-794b-44fc-9558-8e6a83d81e12",
+    "city": "LHR",
+    "name": "Sheraton LHR Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 293,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "132da0fc-1ddd-4255-bd7c-cba596ccea64",
+    "city": "LHR",
+    "name": "Comfort Inn LHR Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 258,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "e93a64c4-ae2b-4780-bb81-a4aa9c991196",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR City Center",
+    "room_type": "Standard King",
+    "price_per_night": 192.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "b679aa75-df35-4e30-82d9-a2297eddd9c4",
+    "city": "LHR",
+    "name": "Comfort Inn LHR Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 75,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "1645805e-8276-45b1-8302-a281abd89b01",
+    "city": "LHR",
+    "name": "Holiday Inn LHR City Center",
+    "room_type": "Standard King",
+    "price_per_night": 131,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "93d3e60d-34e2-4a3c-9f07-59ac4eae6e15",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 238,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "f0f15e24-e562-4bb8-bfcf-3b067f33d13b",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 142.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "e28379aa-74f7-4d70-b8b5-fa3a728092a1",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 215,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "ec734244-6f7c-4785-af26-20e0a12e0531",
+    "city": "LHR",
+    "name": "Local Luxury LHR Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 422.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "008a7e2b-09c6-4baa-aa63-a9c52042f6a4",
+    "city": "LHR",
+    "name": "Holiday Inn LHR Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 79,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "5b72c588-08f7-45d8-a5d6-f8f5584ee748",
+    "city": "LHR",
+    "name": "Sheraton LHR Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 167,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "24593344-6751-4cb5-a9dc-fc222fe8130f",
+    "city": "LHR",
+    "name": "Marriott LHR City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 147,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "d599aecb-e9df-4636-ad58-268f55161cd8",
+    "city": "LHR",
+    "name": "Hilton LHR Airport",
+    "room_type": "Standard King",
+    "price_per_night": 86,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "561bf42e-0755-405f-961b-ee76bcf7698d",
+    "city": "LHR",
+    "name": "Sheraton LHR Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 58,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "534fa88a-b726-4779-8e0e-c19f0be59b73",
+    "city": "LHR",
+    "name": "Local Luxury LHR City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 173.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "fcc8d821-cffe-43a6-b8cb-7a396aeab208",
+    "city": "LHR",
+    "name": "Sheraton LHR Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 216,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "4f1a464e-763f-41e7-b637-d13131bd5601",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 184.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "e676db45-0fb2-4218-b3a9-6daa7a2bf08d",
+    "city": "LHR",
+    "name": "Ritz-Carlton LHR Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 338.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "5cf8ad2f-3d99-402b-a945-1bfd576b7099",
+    "city": "LHR",
+    "name": "Comfort Inn LHR Airport",
+    "room_type": "Standard King",
+    "price_per_night": 57,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "3356bd70-a2f1-4b5c-8f74-777466823239",
+    "city": "LHR",
+    "name": "Marriott LHR Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 75,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "dc188194-0976-48dd-b92c-cf40a01eff30",
+    "city": "LHR",
+    "name": "Hyatt LHR Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 260.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "b0f03fe5-48a7-4fb6-ab03-6544ecf644e2",
+    "city": "LHR",
+    "name": "Comfort Inn LHR Resort",
+    "room_type": "Standard King",
+    "price_per_night": 146,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "066d3e9b-719b-4b7e-8527-269d99df3d02",
+    "city": "LHR",
+    "name": "Local Luxury LHR Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 133.0,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "0ed262f7-070b-486f-ac26-8f985d2243e3",
+    "city": "JFK",
+    "name": "Local Luxury JFK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 330.0,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "827dd54d-0073-45b2-8562-e28483194fc5",
+    "city": "JFK",
+    "name": "Hyatt JFK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 324.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "2b262344-4aca-4aed-8a45-bb5a76cd801f",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 79,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "a7d99683-c92b-46b9-8673-88d4e681821b",
+    "city": "JFK",
+    "name": "Hilton JFK Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 316,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "2ed59377-b2bc-4f39-bf36-044d8557192b",
+    "city": "JFK",
+    "name": "Hilton JFK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 294,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "18bf2a63-b86c-47d6-8209-cee99cefcef8",
+    "city": "JFK",
+    "name": "Holiday Inn JFK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 196,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "9daa53cf-aee6-42b3-b786-9682afe22a25",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 162,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "82f51ac6-9cb3-45f6-a1fc-8202b4b668ff",
+    "city": "JFK",
+    "name": "Sheraton JFK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 112,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "8ceba3fd-01b0-4ae2-9fbd-fd6834884b1b",
+    "city": "JFK",
+    "name": "Hilton JFK Grand",
+    "room_type": "Standard King",
+    "price_per_night": 58,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "76908bee-9837-4f86-b343-127bed1838ae",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 191,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "576a19cf-6045-4231-a583-c6bd38fb8ef3",
+    "city": "JFK",
+    "name": "Marriott JFK Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 202,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "d324a54d-8618-47c4-9c4b-3bfb5495f145",
+    "city": "JFK",
+    "name": "Comfort Inn JFK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 292,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "e9cbc7ff-fb5b-4dbd-a810-cef8d76f1302",
+    "city": "JFK",
+    "name": "Local Luxury JFK Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 489.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "ebb1d40c-4d2d-454a-bd1f-27a1821a2845",
+    "city": "JFK",
+    "name": "Hilton JFK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 99,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "095bc6a1-4ba1-43e9-b721-148475905c4a",
+    "city": "JFK",
+    "name": "Marriott JFK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 76,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "6987e8ee-c974-45df-afa5-e874aa164cea",
+    "city": "JFK",
+    "name": "Comfort Inn JFK Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 140,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "01338722-96fa-4e94-a6f8-900da8825a26",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Resort",
+    "room_type": "Standard King",
+    "price_per_night": 96,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "7cb6a12b-43b8-4456-a8fc-d257c1bed169",
+    "city": "JFK",
+    "name": "Local Luxury JFK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 145.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "1e60cb29-1827-4227-ba86-e94fb04cc715",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 250,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "ed8c7afd-e8f5-4510-9800-b6229615733a",
+    "city": "JFK",
+    "name": "Comfort Inn JFK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 333,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "be7042d4-e19e-4b32-b535-267875cbe419",
+    "city": "JFK",
+    "name": "Sheraton JFK Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 305,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "bdb20d7e-4bad-4658-9e18-a56a846ed6aa",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 349.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "60013858-c6ff-43bc-812f-87fe0f85702c",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 404.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "e3430b70-0495-4c68-a387-a7feca023cd9",
+    "city": "JFK",
+    "name": "Marriott JFK Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 285,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "53517308-4d95-4e19-b6fe-806b5b91cc60",
+    "city": "JFK",
+    "name": "Marriott JFK Airport",
+    "room_type": "Standard King",
+    "price_per_night": 84,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "926f5a9d-b410-4ccf-ad67-2ee416faca26",
+    "city": "JFK",
+    "name": "Sheraton JFK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 81,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "500f3b87-65fb-4a92-9293-ac4808586674",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 191.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "99d234e7-297e-4b46-ae79-e315ddf03aad",
+    "city": "JFK",
+    "name": "Marriott JFK Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 220,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "e9add205-1cb0-45b3-b35a-b2551b818c16",
+    "city": "JFK",
+    "name": "Local Luxury JFK Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 110.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "9b5a476e-4b23-44cc-9095-025f302a1096",
+    "city": "JFK",
+    "name": "Local Luxury JFK City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 430.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "ccdd3cb9-2511-4914-b181-dc85a414e868",
+    "city": "JFK",
+    "name": "Sheraton JFK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 301,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "0dbc4f34-1dba-428d-ac0d-600b48065e77",
+    "city": "JFK",
+    "name": "Local Luxury JFK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 134.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "6876cc1d-2e12-4bfb-80da-7d2c616c4637",
+    "city": "JFK",
+    "name": "Comfort Inn JFK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 276,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "e44f3b44-3dc8-4fbc-a208-ad30ad8c0bcc",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Resort",
+    "room_type": "Standard King",
+    "price_per_night": 145,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "6c01e54c-9279-48e3-a612-2df01b24245b",
+    "city": "JFK",
+    "name": "Local Luxury JFK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 117.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "e198985c-3956-4cd5-a62c-ea7e7b121c70",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 140.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "31951f5d-a6b4-49a3-8922-4b9803040ce3",
+    "city": "JFK",
+    "name": "Hyatt JFK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 131.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "35b45b0c-b51e-48d6-8f16-e9fc6c91cd02",
+    "city": "JFK",
+    "name": "Local Luxury JFK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 478.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "fc8172c3-7f0c-47b4-bdbe-06a53223c67d",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Airport",
+    "room_type": "Standard King",
+    "price_per_night": 129,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "9cb5a279-0976-4241-b6c8-4f7a7e83d1f9",
+    "city": "JFK",
+    "name": "Hilton JFK City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 258,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "6559c0d0-18db-4022-973d-626fcffdfc34",
+    "city": "JFK",
+    "name": "Sheraton JFK Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 134,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "989c36c2-315a-4014-9bd9-957302f8aefb",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 230,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "d85bc773-0b44-4158-9bf1-4dedddd84d4d",
+    "city": "JFK",
+    "name": "Marriott JFK Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 95,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "6efa3deb-4302-4489-a9ea-9a0513cc33c2",
+    "city": "JFK",
+    "name": "Hyatt JFK Grand",
+    "room_type": "Standard King",
+    "price_per_night": 174.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "03c77e06-bb2c-40f5-9832-0355577ed83c",
+    "city": "JFK",
+    "name": "Sheraton JFK Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 208,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "68ea8f62-a6d9-4a7e-b800-82f7a0b4eaa5",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Grand",
+    "room_type": "Standard King",
+    "price_per_night": 183.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "7fff4aa3-9d3b-428e-80e7-6071f4d3b589",
+    "city": "JFK",
+    "name": "Ritz-Carlton JFK Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 183.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "37d5027f-f765-4f65-98d7-3f7b49a0bce9",
+    "city": "JFK",
+    "name": "Holiday Inn JFK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 173,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "bb25b045-7bcd-40fd-a475-f4e7c765b0e0",
+    "city": "JFK",
+    "name": "Local Luxury JFK Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 416.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "b8641766-c91c-4e05-9e34-c8e02cf2bbf1",
+    "city": "JFK",
+    "name": "Local Luxury JFK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 104.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "7f8aeceb-ce20-4cbf-9c9e-ef09248e2ae6",
+    "city": "HND",
+    "name": "Hyatt HND Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 172.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "1dbc7d99-f9b0-4491-a72e-731c7f1536cc",
+    "city": "HND",
+    "name": "Comfort Inn HND City Center",
+    "room_type": "Standard King",
+    "price_per_night": 91,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "e09acf14-a0b8-4e3d-8230-a500ce820ae4",
+    "city": "HND",
+    "name": "Hyatt HND Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 486.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "0aba230b-e30a-4660-bd3f-ce825ee5d5c1",
+    "city": "HND",
+    "name": "Marriott HND Resort",
+    "room_type": "Standard King",
+    "price_per_night": 106,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "44762979-8137-4292-a633-837b0cb46410",
+    "city": "HND",
+    "name": "Sheraton HND City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 121,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "5a93a9fe-e21e-46eb-896e-adf76b6a4e7f",
+    "city": "HND",
+    "name": "Hilton HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 262,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "2fd7c6f0-a483-456b-b9cd-7dab41d60e65",
+    "city": "HND",
+    "name": "Comfort Inn HND Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 86,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "fa8bb8cd-f279-4a58-bc77-98586093b418",
+    "city": "HND",
+    "name": "Hyatt HND Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 287.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "3aee613d-827b-4f67-8a75-57011c67f0cb",
+    "city": "HND",
+    "name": "Hyatt HND Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 123.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "acd95f06-49bb-4410-8c6c-550173ce7a3d",
+    "city": "HND",
+    "name": "Sheraton HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 342,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "1c5c624b-2f0b-420a-a79e-ff2ef9e3d99b",
+    "city": "HND",
+    "name": "Comfort Inn HND Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 219,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "e343a6b6-d466-49aa-a6ba-679f6c24fcb5",
+    "city": "HND",
+    "name": "Holiday Inn HND Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 97,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "644d2d48-41a9-437e-ba40-c1a9c3319367",
+    "city": "HND",
+    "name": "Ritz-Carlton HND Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 162.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "9be39363-cfb1-42b6-81bd-4e2f154b2f88",
+    "city": "HND",
+    "name": "Marriott HND Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 51,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "500183b7-38d9-4377-ad32-96659922ba33",
+    "city": "HND",
+    "name": "Comfort Inn HND City Center",
+    "room_type": "Standard King",
+    "price_per_night": 94,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "e04357fe-a4ac-4193-8c95-aef75466726b",
+    "city": "HND",
+    "name": "Sheraton HND City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 255,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "50a4eea6-9dd6-4f69-9535-e9b9411c5898",
+    "city": "HND",
+    "name": "Holiday Inn HND Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 142,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "553cf8b9-a7d3-44fb-8efc-45a139a61fc3",
+    "city": "HND",
+    "name": "Comfort Inn HND City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 209,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "bc5db988-9820-471d-a99a-c398dbbafbdd",
+    "city": "HND",
+    "name": "Hyatt HND Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 471.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "024dd82d-a3c9-42de-8bff-f4dd209c5d30",
+    "city": "HND",
+    "name": "Comfort Inn HND Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 173,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "d1f6cd7a-b333-4446-89ac-1b5bd8177cb9",
+    "city": "HND",
+    "name": "Ritz-Carlton HND Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 304.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "b0777cb4-7430-4a6a-b2f3-deab8c6284f3",
+    "city": "HND",
+    "name": "Hilton HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 344,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "7937180b-c107-481b-b1b8-8b042046fe82",
+    "city": "HND",
+    "name": "Hilton HND Resort",
+    "room_type": "Standard King",
+    "price_per_night": 100,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "6f19ffec-6e29-48cc-953b-c76966babc91",
+    "city": "HND",
+    "name": "Local Luxury HND Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 189.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "9d649ff3-1698-4c7d-b310-c2991a626e8d",
+    "city": "HND",
+    "name": "Comfort Inn HND Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 248,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "65913ce4-d068-4ef5-ae95-c7e5ed334ff5",
+    "city": "HND",
+    "name": "Local Luxury HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 411.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "246d3f06-19f8-49ee-a104-eb7bbb14f42a",
+    "city": "HND",
+    "name": "Local Luxury HND Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 289.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "329db473-d3cc-46f6-866e-e16cb427fa91",
+    "city": "HND",
+    "name": "Local Luxury HND Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 289.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "aa3bb786-e625-492e-b0f4-7dd2c677d010",
+    "city": "HND",
+    "name": "Hilton HND City Center",
+    "room_type": "Standard King",
+    "price_per_night": 106,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "2b76c8d2-4e24-45e6-bd40-f88e23a343af",
+    "city": "HND",
+    "name": "Sheraton HND Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 66,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "c570de26-c74a-4c7b-b887-aa41790f423b",
+    "city": "HND",
+    "name": "Marriott HND City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 78,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "d43d0734-d5a5-4b2f-987a-3a0159ddc59d",
+    "city": "HND",
+    "name": "Comfort Inn HND Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 225,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "bfbcbc7a-63e5-4214-9cf6-c762631e8465",
+    "city": "HND",
+    "name": "Hyatt HND Resort",
+    "room_type": "Standard King",
+    "price_per_night": 125.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "7862df9c-707d-402d-af6e-92d1bd82e941",
+    "city": "HND",
+    "name": "Marriott HND Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 129,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "168cdd4f-bd75-4724-bd0a-42a06cab7b0a",
+    "city": "HND",
+    "name": "Hyatt HND City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 313.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "5d780afe-c558-4581-b9b2-3ba90356f5c6",
+    "city": "HND",
+    "name": "Marriott HND Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 186,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "1ab43564-f5a8-4f73-9246-80857ec8c0c3",
+    "city": "HND",
+    "name": "Sheraton HND Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 71,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "7f07099f-253d-4429-bd5f-807002377a46",
+    "city": "HND",
+    "name": "Ritz-Carlton HND Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 437.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "a6bb78ea-7cc5-48d6-8c5e-fd4bfea357f1",
+    "city": "HND",
+    "name": "Hyatt HND Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 470.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "d7b489f3-41ab-46fa-b89a-83e446cdc366",
+    "city": "HND",
+    "name": "Marriott HND City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 66,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "e0ecbafb-da21-47d6-b4fa-30f01c343bad",
+    "city": "HND",
+    "name": "Marriott HND Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 199,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "333624bb-9388-4df5-9abc-3fbbceda8e7a",
+    "city": "HND",
+    "name": "Marriott HND Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 116,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "52dfdb92-b3ac-416e-a4b4-75dfd42badec",
+    "city": "HND",
+    "name": "Hilton HND Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 312,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "2b193b09-d759-44a3-8a3f-09d7f854df02",
+    "city": "HND",
+    "name": "Holiday Inn HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 324,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "5ac1d323-2de4-40fe-ae78-3c61dd69cf5d",
+    "city": "HND",
+    "name": "Holiday Inn HND Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 95,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "b644895e-a8f3-4533-9fe1-7a9d4c8e1015",
+    "city": "HND",
+    "name": "Local Luxury HND Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 418.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "61a0afbc-c1ed-4dfd-bf3a-2b73620fe47c",
+    "city": "HND",
+    "name": "Local Luxury HND Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 497.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "6cca1ec8-bf93-41cc-af9d-337988a2086c",
+    "city": "HND",
+    "name": "Sheraton HND City Center",
+    "room_type": "Standard King",
+    "price_per_night": 61,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "830fd986-94b3-4f90-8384-250a03d4ac5f",
+    "city": "HND",
+    "name": "Sheraton HND City Center",
+    "room_type": "Standard King",
+    "price_per_night": 63,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "c8992d01-476d-46c9-9882-a46d2f6902f7",
+    "city": "HND",
+    "name": "Hilton HND Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 213,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "92340d29-c98b-438a-ad5b-8b8f23d3543b",
+    "city": "CDG",
+    "name": "Marriott CDG Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 205,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "f7eae95d-54bd-49f1-aa8d-31398c281e4c",
+    "city": "CDG",
+    "name": "Hilton CDG Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 329,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "ad45cec9-391f-4c14-96d2-bc5d625e9076",
+    "city": "CDG",
+    "name": "Marriott CDG Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 316,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "86ac885a-4388-41a4-85c9-c4aa682ea87e",
+    "city": "CDG",
+    "name": "Local Luxury CDG Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 335.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "80f6da66-a30e-458c-90d8-108646e92126",
+    "city": "CDG",
+    "name": "Local Luxury CDG Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 415.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "bbff2a71-297c-44f5-8c49-eb00bebdc9fd",
+    "city": "CDG",
+    "name": "Hilton CDG Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 235,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "a573f3ea-610b-42bd-bdcb-4d401f511685",
+    "city": "CDG",
+    "name": "Marriott CDG Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 278,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "71dccd97-beca-49f2-b623-2c73bac9e0bd",
+    "city": "CDG",
+    "name": "Comfort Inn CDG City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 251,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "4469f391-6d3f-4865-b90a-53c8be7187e3",
+    "city": "CDG",
+    "name": "Sheraton CDG City Center",
+    "room_type": "Standard King",
+    "price_per_night": 50,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "56435cb3-f53f-4e45-b0d1-5b5053eb545f",
+    "city": "CDG",
+    "name": "Hyatt CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 120.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "f25bf198-d1fe-4566-bdaf-4039c62e5b82",
+    "city": "CDG",
+    "name": "Ritz-Carlton CDG Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 415.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "9352c35b-5765-4ecf-bd8c-fbaece7f47ac",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 110,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "28768878-2deb-4446-8b5b-e6ac3c26c23b",
+    "city": "CDG",
+    "name": "Marriott CDG Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 157,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "d3e48891-fb1c-4a4f-b759-c302245bf791",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 103,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "d5ebea17-6b6b-4575-94c7-80a283b0c0c4",
+    "city": "CDG",
+    "name": "Hyatt CDG Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 194.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "ceb51213-4a21-4e06-8dd6-02d600787ce9",
+    "city": "CDG",
+    "name": "Ritz-Carlton CDG Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 451.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "dfd27fb0-3f0c-4b5f-a842-124cd4426060",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 178,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "500a39ac-26d3-4328-9b2c-e27cafc51ed6",
+    "city": "CDG",
+    "name": "Sheraton CDG City Center",
+    "room_type": "Standard King",
+    "price_per_night": 130,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "5205fa71-9281-44a8-86f4-bf0f7c7dda33",
+    "city": "CDG",
+    "name": "Comfort Inn CDG City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 170,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "cd99c490-3fcc-4e8b-ab15-d2424adc6074",
+    "city": "CDG",
+    "name": "Local Luxury CDG Resort",
+    "room_type": "Standard King",
+    "price_per_night": 184.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "ec45bab9-6730-4fe0-8970-eed3618ceb28",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 170,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "1475b55d-7dc8-4227-a0a6-03bfccbdd99b",
+    "city": "CDG",
+    "name": "Ritz-Carlton CDG Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 289.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "e6419bee-d0db-4af8-87eb-67b8489b59f3",
+    "city": "CDG",
+    "name": "Holiday Inn CDG Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 145,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "3c6bd692-e9d2-43ac-9d38-bf736f5831a3",
+    "city": "CDG",
+    "name": "Hyatt CDG Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 484.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "c612c6d5-a1be-4c9d-9fb6-9415f172abbc",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 149,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "4a750bfc-5966-48ea-bfb8-40138a3fbef5",
+    "city": "CDG",
+    "name": "Marriott CDG Airport",
+    "room_type": "Standard King",
+    "price_per_night": 116,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "6283f792-d55f-4585-bb3a-9aa8f11b7899",
+    "city": "CDG",
+    "name": "Local Luxury CDG Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 443.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "41bc1b83-e8c6-4001-a6ab-b68f435006fa",
+    "city": "CDG",
+    "name": "Local Luxury CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 102.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "24f310e1-0c28-4c65-9c6a-574535b6095f",
+    "city": "CDG",
+    "name": "Marriott CDG Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 257,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "06d8ca8d-4072-46ec-ba0a-5cae5678777f",
+    "city": "CDG",
+    "name": "Marriott CDG Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 306,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "f5d83438-985c-4898-a86f-bb27aa76a210",
+    "city": "CDG",
+    "name": "Hyatt CDG Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 482.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "f145ad2e-cffc-4c3d-af88-abe0067bfbbe",
+    "city": "CDG",
+    "name": "Hyatt CDG Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 273.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "9a6dc342-36dc-4285-a37a-0cd88b63b3db",
+    "city": "CDG",
+    "name": "Holiday Inn CDG Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 291,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "4e256dd2-20b1-4ec3-95e7-c07f4c8f4daa",
+    "city": "CDG",
+    "name": "Hilton CDG Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 266,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "35b92bdc-a13a-4829-81d2-c43e4e55583e",
+    "city": "CDG",
+    "name": "Local Luxury CDG Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 492.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "d3a6fe7e-f75d-4076-aab8-8f2cd7c39e9d",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 87,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "5c3eba41-f4c2-4b9e-85e9-6b453b76beb7",
+    "city": "CDG",
+    "name": "Local Luxury CDG Grand",
+    "room_type": "Standard King",
+    "price_per_night": 152.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "08aea40a-47c4-4b45-ae82-63260662cdd2",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 60,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "7942afda-e2e4-4b30-a574-be77e95ade6f",
+    "city": "CDG",
+    "name": "Hyatt CDG Resort",
+    "room_type": "Standard King",
+    "price_per_night": 159.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "4af8e138-2c19-4899-a623-7f04cf17d795",
+    "city": "CDG",
+    "name": "Comfort Inn CDG Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 75,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "6050f5ab-1e18-42a4-9ca9-3fb5932a8afb",
+    "city": "CDG",
+    "name": "Local Luxury CDG City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 312.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "a9b242ad-180f-43c0-8832-fd7e70ee0035",
+    "city": "CDG",
+    "name": "Hilton CDG City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 157,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "94ad2b60-bfdd-44c8-bfc7-5dafbfdf342f",
+    "city": "CDG",
+    "name": "Local Luxury CDG Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 181.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "07d7f127-9886-42b8-9ece-719e8ca14545",
+    "city": "CDG",
+    "name": "Local Luxury CDG City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 191.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "5f7c7f52-706c-4e8c-8ecf-675fe2a6bd4f",
+    "city": "CDG",
+    "name": "Local Luxury CDG Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 173.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "53a17606-5d92-407b-ba05-2016e883703b",
+    "city": "CDG",
+    "name": "Hyatt CDG Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 309.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "65aec95b-d261-4973-969e-2097ba29bb64",
+    "city": "CDG",
+    "name": "Sheraton CDG City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 235,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "15a2f063-34a3-4962-a143-02d926f88f4e",
+    "city": "CDG",
+    "name": "Hyatt CDG City Center",
+    "room_type": "Standard King",
+    "price_per_night": 131.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "84ca7f60-9340-4d46-8ec1-0e718edba02b",
+    "city": "CDG",
+    "name": "Local Luxury CDG Airport",
+    "room_type": "Standard King",
+    "price_per_night": 103.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "739ba10a-b376-4fe2-ad41-a9de007ac064",
+    "city": "CDG",
+    "name": "Ritz-Carlton CDG Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 306.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "5e4b3556-efb6-4099-907c-0b5010c98b29",
+    "city": "AMS",
+    "name": "Hyatt AMS Grand",
+    "room_type": "Standard King",
+    "price_per_night": 135.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "4cf267bb-326b-49e4-82d7-43fec514f64f",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 144,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "1a0ccafb-5449-4210-a7fc-d3790e568aed",
+    "city": "AMS",
+    "name": "Marriott AMS City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 229,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "7c6273a3-96e4-448b-b5f4-2a5f51ca526b",
+    "city": "AMS",
+    "name": "Local Luxury AMS Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 162.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "7ce5376f-8ecf-4ed0-98f7-cf1f5ee312c8",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 73,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "03096fb3-75f5-45e0-a727-021ef77aaf53",
+    "city": "AMS",
+    "name": "Hilton AMS Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 130,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "8801d8f8-0794-46b3-98fd-0da24eb3142f",
+    "city": "AMS",
+    "name": "Hyatt AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 138.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "6e96b02a-40ad-4ca6-8d58-ea5d5698d327",
+    "city": "AMS",
+    "name": "Ritz-Carlton AMS Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 126.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "bc55dcf2-a0e5-401a-90bc-d56c87bdd115",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 229,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "7e3d780e-0721-4114-a1b5-60233c8d0eff",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Resort",
+    "room_type": "Standard King",
+    "price_per_night": 106,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "791e8fd0-d7bb-40c2-b1aa-838e6f481bc7",
+    "city": "AMS",
+    "name": "Local Luxury AMS City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 186.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "96bb1f04-43f9-40b8-9837-6c2c4be7e79e",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 108,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "915b8527-171f-4e31-abf9-6e1b416749d4",
+    "city": "AMS",
+    "name": "Sheraton AMS Grand",
+    "room_type": "Standard King",
+    "price_per_night": 71,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "0a8f608b-c78a-4f4f-82af-383574c9623c",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 113,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "c6760b20-2a15-4776-b8e1-68fb2bd6f8f2",
+    "city": "AMS",
+    "name": "Ritz-Carlton AMS Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 448.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "b8629cdc-3013-4200-bd38-73a26270a597",
+    "city": "AMS",
+    "name": "Hilton AMS City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 264,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "ebab0240-7b8e-483f-bd48-86912c93f0a8",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 55,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "b30a1469-d861-44d6-a02b-32a0361bad14",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 114,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "e8e72332-417f-4789-8fb2-7e3033768251",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 211,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "fad81cd9-2718-41a0-9912-4f86dcc0f4c5",
+    "city": "AMS",
+    "name": "Hilton AMS Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 267,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "17b9e26a-4757-4292-9bc7-157748c33aa0",
+    "city": "AMS",
+    "name": "Hyatt AMS Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 125.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "a9beacc1-cf42-49c0-a811-16dcb23d993d",
+    "city": "AMS",
+    "name": "Hilton AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 337,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "bbaf3394-9d6b-45e7-834e-d354fbbec3eb",
+    "city": "AMS",
+    "name": "Hyatt AMS City Center",
+    "room_type": "Standard King",
+    "price_per_night": 198.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "8f1dba80-5e77-4484-9d54-9c5da9eb174b",
+    "city": "AMS",
+    "name": "Local Luxury AMS City Center",
+    "room_type": "Standard King",
+    "price_per_night": 100.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "606df474-1b54-4826-83ef-47a2e0c64e0a",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 276,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "277f1cb2-b7d4-4f43-b66c-af9f6e715362",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 81,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "5820047d-250e-4594-808a-bc7abad270a3",
+    "city": "AMS",
+    "name": "Ritz-Carlton AMS Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 331.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "6e77ab30-f410-4b57-98c9-ca75eb6abc38",
+    "city": "AMS",
+    "name": "Marriott AMS Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 318,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "24f0856f-ff91-4bb6-9170-1ddced75305d",
+    "city": "AMS",
+    "name": "Marriott AMS Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 281,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "06882fad-c10e-457e-a5f2-84b9315c22eb",
+    "city": "AMS",
+    "name": "Hyatt AMS Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 408.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "714a488d-f804-465f-9c88-830f8ee1416c",
+    "city": "AMS",
+    "name": "Marriott AMS Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 141,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "78545e8a-f843-4659-be72-83bf66df58dc",
+    "city": "AMS",
+    "name": "Marriott AMS Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 205,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "2d180d43-4889-40cd-a372-bf7e92dced06",
+    "city": "AMS",
+    "name": "Local Luxury AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 415.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "9d2ebd0f-bacc-413e-8bbc-0c7c86cf9a49",
+    "city": "AMS",
+    "name": "Hilton AMS City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 276,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "f918abd4-bf8f-43c8-8ebb-db3bcf16418b",
+    "city": "AMS",
+    "name": "Marriott AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 131,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "c6f75242-8b3d-40e4-86b9-eda646bfc4b4",
+    "city": "AMS",
+    "name": "Ritz-Carlton AMS Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 421.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "f9ad1b05-b637-45ff-8a4a-7b492512f3bf",
+    "city": "AMS",
+    "name": "Hilton AMS Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 184,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "3ed1c4a0-82c4-452e-84b6-1a2b236b763a",
+    "city": "AMS",
+    "name": "Sheraton AMS Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 227,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "68d7e63a-ca74-43c5-af2c-dbd06b0edcdc",
+    "city": "AMS",
+    "name": "Ritz-Carlton AMS City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 430.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "71bc7412-583a-43cc-998e-4e7c7da8545d",
+    "city": "AMS",
+    "name": "Sheraton AMS Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 55,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "f43999b2-7584-4b94-a533-51873e509011",
+    "city": "AMS",
+    "name": "Sheraton AMS Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 320,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "c3f278df-7cec-418d-bdcb-1bdb619e3e68",
+    "city": "AMS",
+    "name": "Hilton AMS City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 222,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "eb7b4131-5473-42a3-ae70-6f0711d23699",
+    "city": "AMS",
+    "name": "Hyatt AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 418.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "2cf1bf3f-e258-4916-9ac1-33ab0a5ab3ae",
+    "city": "AMS",
+    "name": "Hilton AMS Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 130,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "658c5764-0e15-41a3-a985-0a0d0e0c02f4",
+    "city": "AMS",
+    "name": "Hilton AMS City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 74,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "9043564c-6f24-416a-a7a9-aafd610263b1",
+    "city": "AMS",
+    "name": "Holiday Inn AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 343,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "bbdeefc0-a6e5-47b1-9129-0abf5f3a7118",
+    "city": "AMS",
+    "name": "Local Luxury AMS Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 462.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "ac797367-1acf-4f58-a503-79339b2b97c1",
+    "city": "AMS",
+    "name": "Comfort Inn AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 147,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "9ab66e61-a8d3-4c22-a9a3-23b0dd679a91",
+    "city": "AMS",
+    "name": "Hyatt AMS Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 436.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "7e10009d-9851-4e0b-9bca-518ce7e76adc",
+    "city": "AMS",
+    "name": "Marriott AMS Airport",
+    "room_type": "Standard King",
+    "price_per_night": 136,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "344066cf-ec24-4efd-91e8-f9ade9fd8aad",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 262,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "229ceeb5-1575-41a7-94ae-3c1f04fce634",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 154,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "ed52badf-a8a4-47c3-bd6c-fb07288d219d",
+    "city": "FRA",
+    "name": "Hilton FRA Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 339,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "7e264aa0-f3ea-4cf3-95e8-1778e48a6fe0",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 194,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "b8ebd393-4f2a-45ab-9ceb-5a500418be86",
+    "city": "FRA",
+    "name": "Comfort Inn FRA City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 309,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "687ff086-c715-41e8-93d8-493f73efe6ca",
+    "city": "FRA",
+    "name": "Sheraton FRA Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 227,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "c99b0af9-5123-4440-a769-36b5207467af",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 305,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "0ffae2d0-67c7-4d4f-99e6-8cb65b823fb3",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 143,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "c60a6d2e-ac4b-48e5-af07-e5888a772fae",
+    "city": "FRA",
+    "name": "Hilton FRA Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 156,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "e975a5d3-c7c6-49bd-8d6f-a1a643f5f9ec",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Resort",
+    "room_type": "Standard King",
+    "price_per_night": 107,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "1853aed3-9953-43f7-9c61-1e48e2ccdd9b",
+    "city": "FRA",
+    "name": "Marriott FRA Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 127,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "50f08e4d-0213-4bda-8221-7235898ff0e4",
+    "city": "FRA",
+    "name": "Hyatt FRA Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 435.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "3531185f-542b-4f4c-83a2-f0edda80a91e",
+    "city": "FRA",
+    "name": "Comfort Inn FRA City Center",
+    "room_type": "Standard King",
+    "price_per_night": 128,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "ced291e2-4c15-4a24-9128-a47ac85a33a4",
+    "city": "FRA",
+    "name": "Hilton FRA Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 302,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "cd7a8b50-07f8-49d9-9f8d-4507639d6f9b",
+    "city": "FRA",
+    "name": "Hyatt FRA Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 404.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "3ec659c2-7e2b-417c-ba27-3389bbce2cbd",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 93,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "0c2833bc-46d6-4766-ba69-4ecf6310b5f2",
+    "city": "FRA",
+    "name": "Hyatt FRA Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 415.0,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "e6d0ae78-25de-43da-ae7d-a2aaf5f636aa",
+    "city": "FRA",
+    "name": "Sheraton FRA Grand",
+    "room_type": "Standard King",
+    "price_per_night": 59,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "fca9ef9b-79a1-4875-a9ec-ed60d6e0ab01",
+    "city": "FRA",
+    "name": "Hilton FRA Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 69,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "7768b5b9-4a53-4238-b5aa-7580a0faa122",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 171,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "4b947fd4-b7cd-4c03-aff8-1d7aa970bc75",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 165,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "b128afff-247a-45f0-aae8-995a8e60bdbb",
+    "city": "FRA",
+    "name": "Marriott FRA Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 245,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "2f47a45f-0b91-4a58-9e60-4339621bf103",
+    "city": "FRA",
+    "name": "Marriott FRA Airport",
+    "room_type": "Standard King",
+    "price_per_night": 74,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "08331938-3b2c-4cfd-bc10-e6f8b42be129",
+    "city": "FRA",
+    "name": "Local Luxury FRA City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 454.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "f879c974-2d5e-4e23-80bb-0f3fa83de454",
+    "city": "FRA",
+    "name": "Ritz-Carlton FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 334.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "5ff3be27-99d6-45db-b9eb-c33091791076",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 308,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "33caf158-cbad-4b79-b938-c5fed4442400",
+    "city": "FRA",
+    "name": "Local Luxury FRA Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 441.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "bb8b413d-c6cf-486a-a44e-fc983d65d61e",
+    "city": "FRA",
+    "name": "Sheraton FRA City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 122,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "a52447fe-d561-49b5-bd37-74f359b2f00a",
+    "city": "FRA",
+    "name": "Marriott FRA Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 95,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "b3a36aec-e426-4378-abd2-b281856ff1f1",
+    "city": "FRA",
+    "name": "Comfort Inn FRA City Center",
+    "room_type": "Standard King",
+    "price_per_night": 88,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "ee08f98e-7999-45f8-8d42-bf8952539fe0",
+    "city": "FRA",
+    "name": "Local Luxury FRA Resort",
+    "room_type": "Standard King",
+    "price_per_night": 191.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "cad8384c-fc6f-4464-84ed-397e838ee8e9",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 134,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "cbaf3b08-b0c2-49eb-bd5c-f272cb0d68a5",
+    "city": "FRA",
+    "name": "Hyatt FRA City Center",
+    "room_type": "Standard King",
+    "price_per_night": 180.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "92359836-c6ad-4327-8ad2-e6c560870ac6",
+    "city": "FRA",
+    "name": "Sheraton FRA Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 81,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "8b72aa4b-b178-47c2-b0bb-7a0d049f6319",
+    "city": "FRA",
+    "name": "Sheraton FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 187,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "fd2c8e14-81e5-461b-b7f8-4965d36c92d7",
+    "city": "FRA",
+    "name": "Hyatt FRA City Center",
+    "room_type": "Standard King",
+    "price_per_night": 120.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "6433a633-c728-4f11-8172-c70bae22a7f2",
+    "city": "FRA",
+    "name": "Local Luxury FRA Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 105.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "4f907d68-83f4-4990-b157-20c8a58eb4ae",
+    "city": "FRA",
+    "name": "Hyatt FRA City Center",
+    "room_type": "Standard King",
+    "price_per_night": 169.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "55fbd66f-c877-41dd-a99b-2e2a6d94c3ce",
+    "city": "FRA",
+    "name": "Sheraton FRA Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 304,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "d2acb835-c2b5-4882-a24f-fc921a39d566",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 76,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "491aa8e8-e259-4801-a950-d6d6316bd7d2",
+    "city": "FRA",
+    "name": "Hyatt FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 330.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "5e38e265-705c-4575-bf53-500d67847f99",
+    "city": "FRA",
+    "name": "Ritz-Carlton FRA City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 281.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "e90b3800-fc5e-440e-acfb-2659cb382abd",
+    "city": "FRA",
+    "name": "Ritz-Carlton FRA Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 286.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "2c38f2ca-c0f2-4cd2-9eae-b99710c633ef",
+    "city": "FRA",
+    "name": "Comfort Inn FRA City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 324,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "673f27e8-153c-4ee7-84c9-697393f95764",
+    "city": "FRA",
+    "name": "Comfort Inn FRA Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 81,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "9715816b-9cbf-4616-a30a-0822f091fdf0",
+    "city": "FRA",
+    "name": "Hyatt FRA Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 252.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "a294ed66-9304-4fd7-9fd6-97fdb1b7a8dd",
+    "city": "FRA",
+    "name": "Sheraton FRA Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 124,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "db769ab5-885f-4680-9bd5-f0fc6f8b9c26",
+    "city": "FRA",
+    "name": "Ritz-Carlton FRA Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 476.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "22551e85-82b4-408e-a17d-07f6f6f06df8",
+    "city": "FRA",
+    "name": "Marriott FRA City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 72,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "e9563e71-13a8-4da2-be80-2504ad5987ea",
+    "city": "FRA",
+    "name": "Holiday Inn FRA Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 227,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "ad90c7f6-4592-442c-8b16-4ca5a1425c04",
+    "city": "ICN",
+    "name": "Hilton ICN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 137,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "15a6970d-9441-426f-b4f8-b6fda4223c6e",
+    "city": "ICN",
+    "name": "Marriott ICN Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 234,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "1e281f80-20bd-4974-8a2a-8d85ce573809",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 122.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "5ce01e32-9d13-4f96-9f13-e0719913de24",
+    "city": "ICN",
+    "name": "Hyatt ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 275.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "a116ddc5-931d-4a07-a6d7-cd6a8e648257",
+    "city": "ICN",
+    "name": "Local Luxury ICN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 153.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "c274aaf3-68a6-417b-abe9-2a8255739297",
+    "city": "ICN",
+    "name": "Hyatt ICN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 170.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "6c02bc15-7340-441a-924c-96b7204aa32a",
+    "city": "ICN",
+    "name": "Local Luxury ICN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 195.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "907b3a06-39ae-4cc6-809f-12260dd3564a",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 350.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "3254c852-8b3e-4745-a81f-cdfe73ffdc78",
+    "city": "ICN",
+    "name": "Holiday Inn ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 194,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "b6c82d3a-829e-43ea-a8d2-da5c4c04398f",
+    "city": "ICN",
+    "name": "Local Luxury ICN Resort",
+    "room_type": "Standard King",
+    "price_per_night": 119.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "74039594-632a-417c-ab40-3d1b22441c5a",
+    "city": "ICN",
+    "name": "Local Luxury ICN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 428.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "76bc6cfd-18e0-43bd-86f3-e3d365bfd9f9",
+    "city": "ICN",
+    "name": "Marriott ICN Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 216,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "9cc7878c-ac8c-4b1a-849d-33079942208e",
+    "city": "ICN",
+    "name": "Holiday Inn ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 162,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "241cb62b-4523-406c-a472-12ef31062f08",
+    "city": "ICN",
+    "name": "Holiday Inn ICN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 141,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "6d2bd348-35ef-433f-b172-bb27ae31aa69",
+    "city": "ICN",
+    "name": "Holiday Inn ICN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 140,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "2696c31c-e97d-4f17-aeed-0a44ab2569f7",
+    "city": "ICN",
+    "name": "Marriott ICN Airport",
+    "room_type": "Standard King",
+    "price_per_night": 54,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "4c04369d-7a29-4745-b2d9-0460184679f2",
+    "city": "ICN",
+    "name": "Hilton ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 198,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "a8991238-c4b8-4e6b-b8a2-6319eef04135",
+    "city": "ICN",
+    "name": "Local Luxury ICN City Center",
+    "room_type": "Standard King",
+    "price_per_night": 158.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "69f86601-e0c0-4826-80b4-6f1cc0b25aa6",
+    "city": "ICN",
+    "name": "Hyatt ICN City Center",
+    "room_type": "Standard King",
+    "price_per_night": 184.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "16b078ee-65b3-4f6f-bdcb-009c8aed1110",
+    "city": "ICN",
+    "name": "Marriott ICN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 81,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "bafa0c94-1ea4-4de7-8856-5bdd979b55d2",
+    "city": "ICN",
+    "name": "Hyatt ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 253.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "ff012c44-3536-42ce-b68f-73a3ffc0c326",
+    "city": "ICN",
+    "name": "Comfort Inn ICN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 113,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "532b1a4a-8801-4e0f-8fec-6e7aa4df03b2",
+    "city": "ICN",
+    "name": "Hyatt ICN City Center",
+    "room_type": "Standard King",
+    "price_per_night": 118.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "5c869c45-fbd5-4ede-b493-358cf861337a",
+    "city": "ICN",
+    "name": "Sheraton ICN Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 66,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "550a9387-9a8b-4979-8169-56c8aea6bf27",
+    "city": "ICN",
+    "name": "Sheraton ICN Grand",
+    "room_type": "Standard King",
+    "price_per_night": 115,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "902505de-337e-4f9c-9c0a-ddf7af0f162c",
+    "city": "ICN",
+    "name": "Marriott ICN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 259,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "3c4e5667-b6c6-4b82-ab49-7c2c3e0226b5",
+    "city": "ICN",
+    "name": "Local Luxury ICN Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 423.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "2e0285fb-2e53-47ec-a6ec-e20809e37561",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 453.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "0e39462c-2157-4d35-9e3d-e025e678cd19",
+    "city": "ICN",
+    "name": "Marriott ICN Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 344,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "fbb7dde8-c607-46b2-aeb7-43a3321a21a3",
+    "city": "ICN",
+    "name": "Sheraton ICN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 62,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "dd2f4157-32bf-4946-a5fc-b2cb2d7435d9",
+    "city": "ICN",
+    "name": "Marriott ICN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 310,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "2db38e6c-9869-4ddc-9878-4bc0a3823539",
+    "city": "ICN",
+    "name": "Sheraton ICN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 111,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "67d4bc3d-8191-43cc-a797-979a7afea857",
+    "city": "ICN",
+    "name": "Sheraton ICN Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 55,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "4b29644c-5af9-4da1-9edd-6d24ca93bce9",
+    "city": "ICN",
+    "name": "Holiday Inn ICN City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 246,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "7a83d1a7-289f-4e9c-aaa7-05c2e89055e1",
+    "city": "ICN",
+    "name": "Sheraton ICN Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 235,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "bfddf61b-4390-4005-a72c-4e1e9d7ad87f",
+    "city": "ICN",
+    "name": "Marriott ICN Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 282,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "c285ec25-6ca5-4d4f-8cf3-677154e946b7",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 161.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "f277ab12-6751-41ea-ada1-93777b04508b",
+    "city": "ICN",
+    "name": "Sheraton ICN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 151,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "45a628ad-835c-450e-a76c-94d87c49738f",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 103.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "c088ea8b-9b22-4aeb-9eca-87ff584a684e",
+    "city": "ICN",
+    "name": "Comfort Inn ICN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 75,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "62e6ca49-6752-4374-a682-003609a2f88c",
+    "city": "ICN",
+    "name": "Hyatt ICN Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 154.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "874f1aad-8486-4984-b5a2-6099cc04d62b",
+    "city": "ICN",
+    "name": "Local Luxury ICN Airport",
+    "room_type": "Standard King",
+    "price_per_night": 166.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "40c8cc92-e5e8-4b70-8328-62afdbce859f",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 168.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "3ac9e4a3-7777-48ac-a231-e039bc089815",
+    "city": "ICN",
+    "name": "Hilton ICN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 311,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "45045eeb-2da1-4d71-9b59-23ac0d3299a1",
+    "city": "ICN",
+    "name": "Local Luxury ICN Grand",
+    "room_type": "Standard King",
+    "price_per_night": 122.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "f666799d-5614-4e04-98d7-978f46424ab0",
+    "city": "ICN",
+    "name": "Comfort Inn ICN Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 189,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "1fc4671e-52ba-47de-8d7a-80e294fc66e7",
+    "city": "ICN",
+    "name": "Comfort Inn ICN Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 237,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f7ab6707-e48d-4c4b-a605-388c7b0ab470",
+    "city": "ICN",
+    "name": "Hilton ICN Airport",
+    "room_type": "Standard King",
+    "price_per_night": 70,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "f5084c34-9058-40a0-8471-38f1f9065c13",
+    "city": "ICN",
+    "name": "Ritz-Carlton ICN City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 488.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "116251c9-1848-4f49-9427-a2ba627fa73b",
+    "city": "ICN",
+    "name": "Hilton ICN Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 126,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "d115ffe9-21dc-4818-b8b5-771a9c807e72",
+    "city": "BKK",
+    "name": "Comfort Inn BKK Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 166,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "00172f42-c0eb-43ac-b2bb-76c15bace56b",
+    "city": "BKK",
+    "name": "Hyatt BKK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 321.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "874ac1b4-3464-4b8e-9771-d7bc91104058",
+    "city": "BKK",
+    "name": "Marriott BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 184,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "38a690b5-ea90-4ce7-8a02-3075080b8faa",
+    "city": "BKK",
+    "name": "Sheraton BKK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 347,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "371761f2-804c-4a68-b4ba-d83899fe7a20",
+    "city": "BKK",
+    "name": "Holiday Inn BKK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 128,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "fbe803c3-8478-4610-8ed7-e9538eaa4381",
+    "city": "BKK",
+    "name": "Sheraton BKK Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 55,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "c5f2642a-4de5-4f04-8a3a-81874e1118c1",
+    "city": "BKK",
+    "name": "Hilton BKK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 99,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "61701125-4eb9-4565-8310-39b1aecaf41d",
+    "city": "BKK",
+    "name": "Sheraton BKK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 112,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "cde5152d-8a12-4907-bef9-953977f4c52e",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 264.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "165cfba4-0dce-4b7e-b9c0-e867518212c0",
+    "city": "BKK",
+    "name": "Holiday Inn BKK Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 203,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "f663a258-bbf1-45a0-96e9-ea0421e7b003",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 117.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "ef2f879d-fdcc-4474-af80-46acb7d296c7",
+    "city": "BKK",
+    "name": "Sheraton BKK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 287,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "de6f7063-01bf-4aed-a3aa-c859bca06a8d",
+    "city": "BKK",
+    "name": "Hyatt BKK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 150.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "e6280a4e-acae-44be-98f9-f03fb7a24112",
+    "city": "BKK",
+    "name": "Hilton BKK Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 278,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "21d8e2b1-54f7-499b-8660-476068f47351",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 298.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "b32646ca-8939-45d5-9951-c8262a652e14",
+    "city": "BKK",
+    "name": "Marriott BKK Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 118,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "e6c7c1c9-987c-4c2b-b5d6-dfd7b973be79",
+    "city": "BKK",
+    "name": "Sheraton BKK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 76,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "adb3d7c1-a006-4e4e-82be-ec5e4e9a9a38",
+    "city": "BKK",
+    "name": "Hyatt BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 275.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "2b1308e2-502d-4e9b-bab2-7c78f42ab9ca",
+    "city": "BKK",
+    "name": "Local Luxury BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 254.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "d419bd41-09ed-46f3-8d9f-d94fd505508c",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK City Center",
+    "room_type": "Standard King",
+    "price_per_night": 181.0,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "f7910e39-3005-46d9-b3b3-f2fae4a61b99",
+    "city": "BKK",
+    "name": "Comfort Inn BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 182,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "5494577b-21c6-4aef-8170-6eaacfd908a0",
+    "city": "BKK",
+    "name": "Hilton BKK Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 311,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "f9638e32-f6e7-4f17-8874-97c410bfe974",
+    "city": "BKK",
+    "name": "Holiday Inn BKK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 56,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "bab00ec5-f24d-4289-9ea9-d9b904aa92f8",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 278.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f514d8f6-b399-4301-8ed9-f58db9bc1676",
+    "city": "BKK",
+    "name": "Comfort Inn BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 238,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "daab3200-9daa-4444-a3ae-1532c748b55f",
+    "city": "BKK",
+    "name": "Hyatt BKK Airport",
+    "room_type": "Standard King",
+    "price_per_night": 115.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "c92c7bc4-cf06-4f05-bb0a-30a3923e5499",
+    "city": "BKK",
+    "name": "Hyatt BKK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 185.0,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "91a6584b-b71a-4f67-83f2-0ee776ce4dba",
+    "city": "BKK",
+    "name": "Hyatt BKK Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 130.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "6c732869-84e4-499a-bc35-13732feea6f5",
+    "city": "BKK",
+    "name": "Marriott BKK City Center",
+    "room_type": "Standard King",
+    "price_per_night": 56,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "0623173a-3e68-44c5-97b0-2c823e890f4e",
+    "city": "BKK",
+    "name": "Hyatt BKK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 439.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "675c3cf3-024f-4957-a5a3-84dfc4e530a8",
+    "city": "BKK",
+    "name": "Comfort Inn BKK Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 161,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "e76575ea-11e8-4bb2-89f8-982d79f18309",
+    "city": "BKK",
+    "name": "Local Luxury BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 310.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "3d275c3e-da63-42c0-82ac-b8b4c7873a27",
+    "city": "BKK",
+    "name": "Holiday Inn BKK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 333,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "000b594a-00c1-4a68-84d0-808b57b9738e",
+    "city": "BKK",
+    "name": "Local Luxury BKK Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 264.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "7e1ba609-2b1c-4138-83ef-0ada72c92688",
+    "city": "BKK",
+    "name": "Sheraton BKK Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 58,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "79e9f7d5-c0b6-4ae5-b2e3-5d1fa77c58eb",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 312.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "72645fd2-f1eb-42b1-892c-a1c1ae0f8a68",
+    "city": "BKK",
+    "name": "Comfort Inn BKK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 328,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "51cb292b-9027-4c86-8d25-c6f47b0d688f",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK Resort",
+    "room_type": "Standard King",
+    "price_per_night": 115.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "1ebe4db4-d955-4eea-be94-53cb543f7fca",
+    "city": "BKK",
+    "name": "Hyatt BKK Resort",
+    "room_type": "Standard King",
+    "price_per_night": 140.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "2498f9a4-a3ab-439f-8098-6bcc3d980fa6",
+    "city": "BKK",
+    "name": "Hilton BKK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 141,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "032f8a86-999b-4f3b-a2b1-f28d7a00f5d5",
+    "city": "BKK",
+    "name": "Marriott BKK Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 332,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "4a67eeac-7931-47ce-a0a4-c95651721aee",
+    "city": "BKK",
+    "name": "Hyatt BKK Airport",
+    "room_type": "Standard King",
+    "price_per_night": 181.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "8966e61f-e0c6-4d18-8d74-706046f8e70c",
+    "city": "BKK",
+    "name": "Marriott BKK City Center",
+    "room_type": "Standard King",
+    "price_per_night": 63,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "bedbc911-8ea9-42e1-a0b0-69902f1197c5",
+    "city": "BKK",
+    "name": "Comfort Inn BKK Airport",
+    "room_type": "Standard King",
+    "price_per_night": 147,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "aa532a63-b889-4d6e-ab77-2a63c6dd4a61",
+    "city": "BKK",
+    "name": "Local Luxury BKK Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 168.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "6ca30aa2-e0e1-4b10-b6a9-e9f8b6e1f28e",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 184.0,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "84409956-d0ea-4413-96b5-cc1d831f34c0",
+    "city": "BKK",
+    "name": "Hilton BKK Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 261,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "59bd4557-0734-447c-8a2e-8b451b65e3c8",
+    "city": "BKK",
+    "name": "Comfort Inn BKK Resort",
+    "room_type": "Standard King",
+    "price_per_night": 88,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "182361ba-8968-467f-93ad-c54ea948f28f",
+    "city": "BKK",
+    "name": "Hyatt BKK City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 279.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "6fa05ba0-2650-4ddb-a231-ec14dac4c8bb",
+    "city": "BKK",
+    "name": "Ritz-Carlton BKK City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 486.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "3f3ab038-bb22-4dd7-8ddf-67950a0ff07f",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 172.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "2f302b7a-a18c-477d-9102-ab15a39a3134",
+    "city": "SFO",
+    "name": "Marriott SFO City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 91,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "ab4c4c9b-f153-4ebe-ad7d-61c504d64d54",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 156.0,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "e7d482ba-3907-4ba3-b078-cbda8db72616",
+    "city": "SFO",
+    "name": "Marriott SFO City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 305,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "e678394d-0499-42b2-8359-0f57d9dcf00f",
+    "city": "SFO",
+    "name": "Hyatt SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 156.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "99e56d4d-e468-4c9e-b303-c9fbf7b56092",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 146,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "6b74a229-d266-4fa1-968e-4fa5e85d2048",
+    "city": "SFO",
+    "name": "Sheraton SFO City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 94,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "893f26a0-87bd-40fb-b1aa-fe33e204e6d1",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 125,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "e6a7d2d4-cdb5-4870-92f5-10239e58426d",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Grand",
+    "room_type": "Standard King",
+    "price_per_night": 119.0,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "b0cd21dc-26c6-41ab-9f3b-73cf553328cb",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 341.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "b5497cf2-083a-4c68-bf1b-27d4c5ca51ed",
+    "city": "SFO",
+    "name": "Local Luxury SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 161.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "582e2353-0970-4982-af32-ea2066bb2bf5",
+    "city": "SFO",
+    "name": "Holiday Inn SFO City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 61,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "ba374096-3c4b-462d-b38a-2a9e0e149134",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Grand",
+    "room_type": "Standard King",
+    "price_per_night": 135.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f5fbd803-a63c-4d73-a065-2ece990a361b",
+    "city": "SFO",
+    "name": "Local Luxury SFO City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 260.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "8316fb8f-3e75-4bca-9ecb-78e4636b6ae6",
+    "city": "SFO",
+    "name": "Hilton SFO Grand",
+    "room_type": "Standard King",
+    "price_per_night": 105,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "e934d077-62b3-4b64-87da-26b725507bac",
+    "city": "SFO",
+    "name": "Hilton SFO City Center",
+    "room_type": "Standard King",
+    "price_per_night": 61,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "a399aeac-d685-4391-afae-cc1dbae46624",
+    "city": "SFO",
+    "name": "Hilton SFO Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 257,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "03a860c8-c021-414d-b0da-ac4c32e63b83",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 129,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "7f6db66a-d1b6-4482-9ef1-db03ac3c5f5c",
+    "city": "SFO",
+    "name": "Local Luxury SFO Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 124.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "5e3cb699-2070-4377-b07b-c7675361d903",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Resort",
+    "room_type": "Standard King",
+    "price_per_night": 50,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "9521af59-9c61-40b9-a1d3-dc15f96de85f",
+    "city": "SFO",
+    "name": "Comfort Inn SFO City Center",
+    "room_type": "Standard King",
+    "price_per_night": 83,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "caf85fb7-1723-4332-8a0d-37be2001d6e0",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Grand",
+    "room_type": "Standard King",
+    "price_per_night": 197.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "04a8dc1e-edfd-4568-b247-1cfb169f9b07",
+    "city": "SFO",
+    "name": "Local Luxury SFO Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 145.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "fabd98a4-1804-4171-9710-b67cc94aa4b7",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 157.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "7142fc2b-15b5-4a29-a910-e50300d7d1fb",
+    "city": "SFO",
+    "name": "Hyatt SFO Resort",
+    "room_type": "Standard King",
+    "price_per_night": 135.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "888b7e7a-d5c1-497e-94f7-44f4db96f798",
+    "city": "SFO",
+    "name": "Sheraton SFO Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 58,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "769ce9c0-8925-4269-8ae4-5709be90fe58",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 323,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "e291a526-01e7-49db-a789-ff4d540cda9e",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 77,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "1b9f6874-afe9-470b-aa48-28f6666525d3",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 276.0,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "e0f0c19d-537c-431a-8b97-f5abc3f86fc1",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 340,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "ecdd5623-b502-43cc-bcb1-425e95e9e95a",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 349,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "da6f8ded-8efc-4d3a-baca-ed7e6bf51e0e",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 314.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "067ec7b8-ac46-4996-9cf0-62499e2860b8",
+    "city": "SFO",
+    "name": "Hyatt SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 178.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "68549b91-9d97-4dd9-b2bd-acc34e43af06",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 51,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "0172d7d4-149b-4293-b9d2-567ee70c0084",
+    "city": "SFO",
+    "name": "Marriott SFO Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 281,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "5324f1bb-c30b-4dbe-8cae-fde8e3e144cd",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 77,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "9cbd539e-b0e0-480c-966f-feeca76a9d2b",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 82,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "199eafae-181b-4cdf-9260-cc3474a9c7f5",
+    "city": "SFO",
+    "name": "Holiday Inn SFO Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 295,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "bd1827a3-0289-4dbd-b0bf-82ef2f356b5f",
+    "city": "SFO",
+    "name": "Ritz-Carlton SFO Resort",
+    "room_type": "Standard King",
+    "price_per_night": 156.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "9968ccc2-af75-4377-af8c-89b388a2840d",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 281,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "6ff5a95c-f157-4ad8-8947-8244fa7704d7",
+    "city": "SFO",
+    "name": "Marriott SFO Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 149,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "0daa56a5-88c3-4a9c-933f-2fd31d309361",
+    "city": "SFO",
+    "name": "Hyatt SFO Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 437.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "f243e972-12bc-4601-b344-828cc5d2b251",
+    "city": "SFO",
+    "name": "Hilton SFO Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 184,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "14d2ced6-ca48-456c-b37b-a379ce76bf94",
+    "city": "SFO",
+    "name": "Hyatt SFO Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 108.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "a3f61c86-facb-4cf1-94ed-7dcc97d6c80a",
+    "city": "SFO",
+    "name": "Hyatt SFO Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 488.0,
+    "rating": 4.6
+  },
+  {
+    "hotel_id": "83bf3411-aa47-4971-9a1a-2d7449727998",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 197,
+    "rating": 4.8
+  },
+  {
+    "hotel_id": "14924600-7b98-4d29-84c2-765017988468",
+    "city": "SFO",
+    "name": "Hilton SFO City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 260,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "d42e08bd-3e0f-496a-8f93-e5a2c5b362cb",
+    "city": "SFO",
+    "name": "Hilton SFO Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 289,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "7cd6f737-d092-4651-bbc8-345167d06719",
+    "city": "SFO",
+    "name": "Hilton SFO City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 284,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "8a6e8cae-548b-4ae1-8403-7bd6c1e7e722",
+    "city": "SFO",
+    "name": "Comfort Inn SFO Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 247,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "43fa159d-0f58-444d-8801-9b07cde6b260",
+    "city": "JED",
+    "name": "Hyatt JED Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 324.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "f7e90b3e-d90c-46d8-8b14-a387e2a86419",
+    "city": "JED",
+    "name": "Hyatt JED Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 447.0,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "ca186546-5139-4f08-890d-66d8415581a0",
+    "city": "JED",
+    "name": "Holiday Inn JED City Center",
+    "room_type": "Standard King",
+    "price_per_night": 133,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "3073494f-be7c-4f37-bc1d-ef0efb16c1e8",
+    "city": "JED",
+    "name": "Comfort Inn JED Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 241,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "8abd9de1-9b73-4b42-84e4-e2006a8f0f4f",
+    "city": "JED",
+    "name": "Ritz-Carlton JED City Center",
+    "room_type": "Standard King",
+    "price_per_night": 157.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "7ba35dec-7022-41df-9963-a1ca7abe81bc",
+    "city": "JED",
+    "name": "Hilton JED Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 300,
+    "rating": 4.0
+  },
+  {
+    "hotel_id": "9cd16027-82ec-432e-9ff5-3be3fa7cce4a",
+    "city": "JED",
+    "name": "Local Luxury JED City Center",
+    "room_type": "Standard King",
+    "price_per_night": 198.0,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "c78f9c4b-df71-463b-8148-edf29de5f5bf",
+    "city": "JED",
+    "name": "Ritz-Carlton JED Resort",
+    "room_type": "Standard King",
+    "price_per_night": 118.0,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "83d503a0-ee1d-4c5b-8174-c2e0b011dc4e",
+    "city": "JED",
+    "name": "Local Luxury JED Airport",
+    "room_type": "Double Queen",
+    "price_per_night": 130.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "71eeb072-7389-4d07-98f2-1e03ea4106a4",
+    "city": "JED",
+    "name": "Hilton JED Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 166,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "b8b95516-fb2c-41f4-8592-c6c08c8c8b92",
+    "city": "JED",
+    "name": "Ritz-Carlton JED Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 314.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "5f64399c-a600-48ed-8251-28408f85e567",
+    "city": "JED",
+    "name": "Hilton JED Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 162,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "2a943508-c89d-4b80-9544-d36cd88f6b96",
+    "city": "JED",
+    "name": "Local Luxury JED City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 350.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "0ded0e4f-228e-4291-a439-9f2473ee5ce3",
+    "city": "JED",
+    "name": "Ritz-Carlton JED Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 130.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "9a69de61-a1c1-465d-9094-cb3e4ae9345a",
+    "city": "JED",
+    "name": "Hyatt JED Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 181.0,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "5871dd6f-c71a-4dc6-9f47-2e6b2ed603fd",
+    "city": "JED",
+    "name": "Hyatt JED Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 475.0,
+    "rating": 5.0
+  },
+  {
+    "hotel_id": "21913d1e-6148-40a8-85a2-6227b0c9f266",
+    "city": "JED",
+    "name": "Local Luxury JED Airport",
+    "room_type": "Standard King",
+    "price_per_night": 102.0,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "fa59d883-fa54-457e-a92e-f51dca5ab92d",
+    "city": "JED",
+    "name": "Holiday Inn JED Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 200,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "30bac74a-9d99-42f3-9e0f-a55587a4853a",
+    "city": "JED",
+    "name": "Sheraton JED City Center",
+    "room_type": "Standard King",
+    "price_per_night": 115,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "d7deabb7-f5f6-4463-9a60-25a9a6fe3f0c",
+    "city": "JED",
+    "name": "Holiday Inn JED Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 149,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "0bddf7fb-40dc-4090-a77c-173b3c38884a",
+    "city": "JED",
+    "name": "Holiday Inn JED Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 261,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "9432b38e-7d26-4e92-bd99-23e27c96a8df",
+    "city": "JED",
+    "name": "Hyatt JED Grand",
+    "room_type": "Standard King",
+    "price_per_night": 183.0,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "a0af7d43-4f7c-4ff8-8977-e143488f4524",
+    "city": "JED",
+    "name": "Ritz-Carlton JED Resort",
+    "room_type": "Standard King",
+    "price_per_night": 138.0,
+    "rating": 3.0
+  },
+  {
+    "hotel_id": "5ecfc774-7053-49b5-a739-49e9882d74cb",
+    "city": "JED",
+    "name": "Comfort Inn JED Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 181,
+    "rating": 4.3
+  },
+  {
+    "hotel_id": "d1b77d06-dee8-49f7-9725-3894985286cb",
+    "city": "JED",
+    "name": "Comfort Inn JED Downtown",
+    "room_type": "Standard King",
+    "price_per_night": 99,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "13585d22-600d-4a20-9746-6c9d9fc79036",
+    "city": "JED",
+    "name": "Holiday Inn JED Grand",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 317,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "62406d9c-4dd6-4b36-b0a9-33594f1e32c4",
+    "city": "JED",
+    "name": "Comfort Inn JED Grand",
+    "room_type": "Standard King",
+    "price_per_night": 110,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "ce400f14-a1a4-4691-be3e-e29833a06dbe",
+    "city": "JED",
+    "name": "Hyatt JED Downtown",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 479.0,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "1f3ed152-275d-4bbe-9bb5-5954315cd8e1",
+    "city": "JED",
+    "name": "Sheraton JED Resort",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 280,
+    "rating": 4.4
+  },
+  {
+    "hotel_id": "cc761e2d-f99b-4428-9ed1-59803449af09",
+    "city": "JED",
+    "name": "Hilton JED Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 136,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "0e10e7a3-269b-49a1-901c-b152d0c34d05",
+    "city": "JED",
+    "name": "Sheraton JED Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 183,
+    "rating": 3.5
+  },
+  {
+    "hotel_id": "0fd49710-10c7-4e8e-8b52-1ecc6e4b4e94",
+    "city": "JED",
+    "name": "Hyatt JED Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 119.0,
+    "rating": 4.7
+  },
+  {
+    "hotel_id": "99ba700c-99b3-43fc-8277-162a0970c2b7",
+    "city": "JED",
+    "name": "Sheraton JED City Center",
+    "room_type": "Double Queen",
+    "price_per_night": 122,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "bc1ee061-5302-4934-ba45-ee24d529e25f",
+    "city": "JED",
+    "name": "Ritz-Carlton JED Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 324.0,
+    "rating": 3.1
+  },
+  {
+    "hotel_id": "7965420f-e3ca-41ba-8ee8-55e4b4d0c73d",
+    "city": "JED",
+    "name": "Hyatt JED Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 336.0,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "b2e0401e-c724-4342-9025-12dca025c91f",
+    "city": "JED",
+    "name": "Hilton JED City Center",
+    "room_type": "Standard King",
+    "price_per_night": 131,
+    "rating": 4.1
+  },
+  {
+    "hotel_id": "c5d61630-6f7c-4bca-8dfc-3d58ddf0e52b",
+    "city": "JED",
+    "name": "Comfort Inn JED Grand",
+    "room_type": "Double Queen",
+    "price_per_night": 64,
+    "rating": 3.6
+  },
+  {
+    "hotel_id": "0b76b31f-2d17-4d00-953c-52040d70303c",
+    "city": "JED",
+    "name": "Hilton JED Grand",
+    "room_type": "Executive Room",
+    "price_per_night": 177,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "496c6a2c-7d99-419a-b726-bddbd1d7ad61",
+    "city": "JED",
+    "name": "Holiday Inn JED Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 55,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "de45300e-1064-4e43-9942-6747e34f3ebd",
+    "city": "JED",
+    "name": "Comfort Inn JED City Center",
+    "room_type": "Executive Room",
+    "price_per_night": 210,
+    "rating": 4.9
+  },
+  {
+    "hotel_id": "3987bdec-168f-4a2e-ac2b-accf7ff07b62",
+    "city": "JED",
+    "name": "Hyatt JED Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 469.0,
+    "rating": 3.2
+  },
+  {
+    "hotel_id": "a77d4615-188d-43fe-84be-d2d45e285a42",
+    "city": "JED",
+    "name": "Hyatt JED Resort",
+    "room_type": "Executive Room",
+    "price_per_night": 336.0,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "31030153-fe62-42f5-957f-1aed9e6f5aac",
+    "city": "JED",
+    "name": "Comfort Inn JED Downtown",
+    "room_type": "Executive Room",
+    "price_per_night": 150,
+    "rating": 3.4
+  },
+  {
+    "hotel_id": "12caf562-88b1-4dd9-8d18-ba7da6b660a4",
+    "city": "JED",
+    "name": "Holiday Inn JED Resort",
+    "room_type": "Double Queen",
+    "price_per_night": 141,
+    "rating": 4.2
+  },
+  {
+    "hotel_id": "1374a0ca-9445-401e-bf07-89ca398fd352",
+    "city": "JED",
+    "name": "Hilton JED Airport",
+    "room_type": "Executive Room",
+    "price_per_night": 180,
+    "rating": 3.9
+  },
+  {
+    "hotel_id": "732e76c5-d2cf-4162-abd1-6c76721d83e5",
+    "city": "JED",
+    "name": "Hilton JED Downtown",
+    "room_type": "Double Queen",
+    "price_per_night": 124,
+    "rating": 4.5
+  },
+  {
+    "hotel_id": "8a2cde30-3123-43ea-86aa-df8a0a3e32a6",
+    "city": "JED",
+    "name": "Holiday Inn JED Grand",
+    "room_type": "Standard King",
+    "price_per_night": 78,
+    "rating": 3.7
+  },
+  {
+    "hotel_id": "ae65d82a-bc00-4487-8412-24b846a7de98",
+    "city": "JED",
+    "name": "Hilton JED City Center",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 330,
+    "rating": 3.3
+  },
+  {
+    "hotel_id": "5d2991e1-4bc8-41ea-ab05-12946b78b038",
+    "city": "JED",
+    "name": "Comfort Inn JED Airport",
+    "room_type": "Deluxe Suite",
+    "price_per_night": 289,
+    "rating": 3.8
+  },
+  {
+    "hotel_id": "8ed310a2-ad1b-4af6-9114-97ba37ef550f",
+    "city": "JED",
+    "name": "Hyatt JED Resort",
+    "room_type": "Standard King",
+    "price_per_night": 200.0,
+    "rating": 4.2
+  }
+]
